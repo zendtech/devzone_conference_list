@@ -7,7 +7,7 @@ The SunshinePHP Developer Conference is hosted by the South Florida PHP communit
 * [ConFoo Montreal](https://confoo.ca/en/yul2017) : March 8 - 10, 2017 : Montreal, QC CA
 ConFoo Montreal is a multi-technology conference for web developers.
 
-* [Midwest PHP](https://2017.midwestphp.org/) : March 17 - 18 : Bloomington, MN US
+* [Midwest PHP](https://2017.midwestphp.org/) : March 17 - 18, 2017 : Bloomington, MN US
 We’re pleased to announce our conference, Midwest PHP should be one of the best PHP conferences where community members from around the world come together to learn and share information about the latest trends and technologies in professional PHP development.
 
 * [php tek](https://tek.phparch.com/) : May 24-26, 2017 : Atlanta, GA US
