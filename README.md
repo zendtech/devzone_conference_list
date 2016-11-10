@@ -19,4 +19,4 @@ The premier PHP conference and annual homecoming for the PHP Community. This con
 ## Australia
 
 # Notes
-If you are viewing the GitHub repo of this page, you can see the final version on the [DevZone PHP Conferences page](https://devzone.zend.com/php-conferences/).
+If you are viewing the GitHub repo of this page, you can see the final version on the [DevZone PHP Conferences](https://devzone.zend.com/php-conferences/) page.
