@@ -1,4 +1,3 @@
-# PHP Conferences
 This page list all known PHP and PHP related conferences. If we have missed one, fork the [DevZone Conference List](https://github.com/zendtech/devzone_conference_list) repo and read the Contributing guide.
 
 ## North America
