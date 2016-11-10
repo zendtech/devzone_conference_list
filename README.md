@@ -19,6 +19,8 @@ The premier PHP conference and annual homecoming for the PHP Community. This con
 * [PHPUK](http://phpconference.co.uk/) : Feb 16 - 17, 2017 : London UK
 PHP UK is pleased to announce the 12th Annual PHP UK conference; a 2-day event with 3 great tracks held at at The Brewery, in the heart of the City of London.
 
+## Africa
+
 ## Asia
 
 ## Australia
