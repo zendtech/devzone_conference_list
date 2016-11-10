@@ -19,6 +19,9 @@ The premier PHP conference and annual homecoming for the PHP Community. This con
 * [PHPUK](http://phpconference.co.uk/) : Feb 16 - 17, 2017 : London UK
 PHP UK is pleased to announce the 12th Annual PHP UK conference; a 2-day event with 3 great tracks held at at The Brewery, in the heart of the City of London.
 
+* [PHP Tour 2017](http://event.afup.org) : May 18 - 19, 2017 : Nantes, France
+The next step of the French touring conference dedicated to PHP, organized by the French PHP-users group, AFUP, and gathering all PHP and Open Source communities, pros and PHP lovers.
+
 ## Africa
 
 ## Asia
