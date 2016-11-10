@@ -18,7 +18,6 @@ The premier PHP conference and annual homecoming for the PHP Community. This con
 ## Europe
 
 * [PHPBenelux](https://conference.phpbenelux.eu/2017/) : Jan 27 - 28, 2017 : Antwerp BE
-
 Come to Antwerp for our annual PHPBenelux Conference and join a bunch of PHP folks that like to share their knowledge, advice on best practices for PHP and challenge you with new ideas. Half a day reserved for tutorials by leading experts in the PHP community and one and a half day of conference talks presented by awesome speakers from around the world. All this is mixed with epic social events to let you cool of your hurted brain. We know you want to join us at [#phpbnl17](https://twitter.com/hashtag/phpbnl17)!
 
 * [PHPUK](http://phpconference.co.uk/) : Feb 16 - 17, 2017 : London UK
