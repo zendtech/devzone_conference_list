@@ -13,6 +13,9 @@ We’re pleased to announce our conference, Midwest PHP should be one of the bes
 * [php tek](https://tek.phparch.com/) : May 24-26, 2017 : Atlanta, GA US
 The premier PHP conference and annual homecoming for the PHP Community. This conference will be the 12th annual edition, and php[architect] and One for All Events are excited to bring it to Atlanta, the empire city of the south!
 
+* [Northeast PHP](http://northeastphp.org/) : August 9 to 11, 2017 : Charlottetown, PEI, Canada
+The Northeast PHP Conference is a community conference intended for networking and collaboration in the developer community. PHP + UX + WEB = The best low-cost conference in North America!
+
 ## South America
 
 ## Europe
