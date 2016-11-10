@@ -4,8 +4,11 @@ This page list all known PHP and PHP related conferences. If we have missed one,
 * [Sunshine PHP](https://sunshinephp.com) : Feburary 2 - 4, 2017 : Miami, FL US
 The SunshinePHP Developer Conference is hosted by the South Florida PHP community (SoFloPHP) in Miami, Florida from February 2nd - 4th, 2017, and you're invited! We'll host some of the best speakers, awesome talk topics, latest technologies, and up to date news in PHP. And don't forget our Hack-a-thon and Uncon'ference, as well as a great hallway track!
 
-* [ConFoo Montreal](https://confoo.ca/en/yul2017) : March 8 - 10, 2017 : Montreal, QC CA
-ConFoo Montreal is a multi-technology conference for web developers.
+* [ConFoo Vancouver](https://confoo.ca/en/yvr2016) : December 5 - 7, 2016 : Vancouver, BC, Canada
+ConFoo is a multi-technology conference aimed specifically at web developers. The Vancouver edition has more than 100 presentations by local and international speakers. This conference offers a great diversity in content to expand your knowledge and increase your productivity. There is a great range of topics, including many programming languages, databases, security, performance, machine learning and project management.
+
+* [ConFoo Montreal](https://confoo.ca/en/yul2017) : March 8 - 10, 2017 : Montreal, QC, Canada
+ConFoo is a multi-technology conference aimed specifically at web developers. The Montreal edition has more than 150 presentations by local and international speakers. This conference offers a great diversity in content to expand your knowledge and increase your productivity. There is a great range of topics, including many programming languages, databases, security, performance, machine learning and project management.
 
 * [Midwest PHP](https://2017.midwestphp.org/) : March 17 - 18, 2017 : Bloomington, MN US
 We’re pleased to announce our conference, Midwest PHP should be one of the best PHP conferences where community members from around the world come together to learn and share information about the latest trends and technologies in professional PHP development.
