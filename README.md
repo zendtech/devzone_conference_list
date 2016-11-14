@@ -16,8 +16,12 @@ We’re pleased to announce our conference, Midwest PHP should be one of the bes
 * [php tek](https://tek.phparch.com/) : May 24-26, 2017 : Atlanta, GA US
 The premier PHP conference and annual homecoming for the PHP Community. This conference will be the 12th annual edition, and php[architect] and One for All Events are excited to bring it to Atlanta, the empire city of the south!
 
+* [International PHP Conference](https://sandsmedia.com/en/conferences#522) : May 29 to April 02, 2017 : Berlin, GER
+The International PHP Conference is the world’s first PHP conference and stands since more than a decade for top-notch pragmatic expertise in PHP and web technologies. At the IPC, internationally renowned experts from the PHP industry meet up with PHP users and developers from large and small companies. Here is the place where concepts emerge and ideas are born – the IPC signifies knowledge transfer at highest level. All delegates of the International PHP Conference have, in addition to PHP program, free access to the entire range of the webinale taking place at the same time. We will show you how to scale your applications and explain the details of Continuous Integration or evaluate different approaches to NoSQL. Attendees will have the opportuntiy to meet World Class speakers, core developers and consultants. In addition to having the the chance to meet international known PHP and Web experts at this conference, you will also be given the chance to evaluate your code. This Conference has been around for ten years and it is definitely a must go event. 
+
 * [Northeast PHP](http://northeastphp.org/) : August 9 to 11, 2017 : Charlottetown, PEI, Canada
 The Northeast PHP Conference is a community conference intended for networking and collaboration in the developer community. PHP + UX + WEB = The best low-cost conference in North America!
+
 
 ## South America
 
