@@ -19,6 +19,8 @@ The premier PHP conference and annual homecoming for the PHP Community. This con
 * [Northeast PHP](http://northeastphp.org/) : August 9 to 11, 2017 : Charlottetown, PEI, Canada
 The Northeast PHP Conference is a community conference intended for networking and collaboration in the developer community. PHP + UX + WEB = The best low-cost conference in North America!
 
+* [LaraCon](http://laracon.us/) : July 25-26, 2017 : New York, NY US
+Two amazing days of learning, growing, and mingling with the Laravel community - returning to the Big Apple.
 
 ## South America
 
