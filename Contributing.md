@@ -11,7 +11,7 @@
 * Fork the repo. Any changes submitted to Master will be deleted.
 * Create a branch for your conference and year (e.g. 2017-sunshinephp)
 * Please respect the format `Name-URL : Date : City, State/Province  COUNTRY
-* Please put your entry in date order according to the start date of our conferencem inside your continent's area, in the README.md. 
+* Please put your entry in date order according to the start date of our conference inside your continent's area, in the README.md. 
 * Commit your change to YOUR fork of the repo.
 * Submit a PR to the repo.
 * We'll take it from there. 
