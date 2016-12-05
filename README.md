@@ -13,11 +13,11 @@ ConFoo is a multi-technology conference aimed specifically at web developers. Th
 * [Midwest PHP](https://2017.midwestphp.org/) : March 17 - 18, 2017 : Bloomington, MN US
 We’re pleased to announce our conference, Midwest PHP should be one of the best PHP conferences where community members from around the world come together to learn and share information about the latest trends and technologies in professional PHP development.
 
-* [php&#91;tek&#93;](https://tek.phparch.com/) : May 24-26, 2017 : Atlanta, GA US
-The premier PHP conference and annual homecoming for the PHP Community. This conference will be the 12th annual edition, and php[architect] and One for All Events are excited to bring it to Atlanta, the empire city of the south!
-
 * [Lone Star PHP](http://lonestarphp.com) : April 20-22, 2017 : Dallas, TX US
 The Lone Star PHP conference is back again for another great year! We're in our seventh year and we're making things better all the time. This year's event will provide all of the great PHP speakers and content you've come to expect from Lone Star PHP. After great success, we are bringing back the Training Day. Training Day will provide a more hands-on experience for all that attend. There'll be plenty of time to spend with the local PHP community too through after-parties and other events.
+
+* [php&#91;tek&#93;](https://tek.phparch.com/) : May 24-26, 2017 : Atlanta, GA US
+The premier PHP conference and annual homecoming for the PHP Community. This conference will be the 12th annual edition, and php[architect] and One for All Events are excited to bring it to Atlanta, the empire city of the south!
 
 * [CoderCruise](https://www.codercruise.com/) : July 16-23, 2017 : New Orleans, LA US
 The spiritual successor to php[cruise], CoderCruise is a family-friendly polyglot conference designed for web technologists. This is a conference on a cruise ship, that will leave the port of New Orleans on a 7 day cruise to Montego Bay, Grand Cayman, and Cozumel. The conference will take place during the 3 days spent at sea, while attendees will be free to explore the ports when docked.
