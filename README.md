@@ -1,9 +1,6 @@
 This page list all known PHP and PHP related conferences. If we have missed one, fork the [DevZone Conference List](https://github.com/zendtech/devzone_conference_list) repo and read the Contributing guide.
 
 ## North America
-* [ConFoo Vancouver](https://confoo.ca/en/yvr2016) : December 5 - 7, 2016 : Vancouver, BC, Canada
-ConFoo is a multi-technology conference aimed specifically at web developers. The Vancouver edition has more than 100 presentations by local and international speakers. This conference offers a great diversity in content to expand your knowledge and increase your productivity. There is a great range of topics, including many programming languages, databases, security, performance, machine learning and project management.
-
 * [Sunshine PHP](https://sunshinephp.com) : Feburary 2 - 4, 2017 : Miami, FL US
 The SunshinePHP Developer Conference is hosted by the South Florida PHP community (SoFloPHP) in Miami, Florida from February 2nd - 4th, 2017, and you're invited! We'll host some of the best speakers, awesome talk topics, latest technologies, and up to date news in PHP. And don't forget our Hack-a-thon and Uncon'ference, as well as a great hallway track!
 
