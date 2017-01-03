@@ -28,6 +28,9 @@ The Northeast PHP Conference is a community conference intended for networking a
 
 ## South America
 
+* [PHP Conference Brazil](http://www.phpconference.com.br) : December 6 - 10, 2017 : Osasco, SP, Brazil
+Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event in Latin America, having reached more than 7,000 participants and more than 400h of PHP content throughout it's history.
+
 ## Europe
 
 * [PHPBenelux](https://conference.phpbenelux.eu/2017/) : Jan 27 - 28, 2017 : Antwerp BE
