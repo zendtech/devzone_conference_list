@@ -1,9 +1,6 @@
 This page list all known PHP and PHP related conferences. If we have missed one, fork the [DevZone Conference List](https://github.com/zendtech/devzone_conference_list) repo and read the Contributing guide.
 
 ## North America
-* [Sunshine PHP](https://sunshinephp.com) : Feburary 2 - 4, 2017 : Miami, FL US
-The SunshinePHP Developer Conference is hosted by the South Florida PHP community (SoFloPHP) in Miami, Florida from February 2nd - 4th, 2017, and you're invited! We'll host some of the best speakers, awesome talk topics, latest technologies, and up to date news in PHP. And don't forget our Hack-a-thon and Uncon'ference, as well as a great hallway track!
-
 * [ConFoo Montreal](https://confoo.ca/en/yul2017) : March 8 - 10, 2017 : Montreal, QC, Canada
 ConFoo is a multi-technology conference aimed specifically at web developers. The Montreal edition has more than 150 presentations by local and international speakers. This conference offers a great diversity in content to expand your knowledge and increase your productivity. There is a great range of topics, including many programming languages, databases, security, performance, machine learning and project management.
 
@@ -32,12 +29,6 @@ The Northeast PHP Conference is a community conference intended for networking a
 Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event in Latin America, having reached more than 7,000 participants and more than 400h of PHP content throughout it's history.
 
 ## Europe
-
-* [PHPBenelux](https://conference.phpbenelux.eu/2017/) : Jan 27 - 28, 2017 : Antwerp BE
-Come to Antwerp for our annual PHPBenelux Conference and join a bunch of PHP folks that like to share their knowledge, advice on best practices for PHP and challenge you with new ideas. Half a day reserved for tutorials by leading experts in the PHP community and one and a half day of conference talks presented by awesome speakers from around the world. All this is mixed with epic social events to let you cool of your hurted brain. We know you want to join us at [#phpbnl17](https://twitter.com/hashtag/phpbnl17)!
-
-* [PHPUK](http://phpconference.co.uk/) : Feb 16 - 17, 2017 : London UK
-PHP UK is pleased to announce the 12th Annual PHP UK conference; a 2-day event with 3 great tracks held at at The Brewery, in the heart of the City of London.
 
 * [PHP Yorkshire](https://cfp.phpyorkshire.co.uk/) : April 08, 2017 : York, UK
 We’re pleased to announce our conference, PHP Yorkshire should be one of the best PHP conferences where community members from around the world come together to learn and share information about the latest trends and technologies in professional PHP development.
