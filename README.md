@@ -45,6 +45,9 @@ The International PHP Conference is the world’s first PHP conference and stand
 * [PHP South Coast 2017](https://2017.phpsouthcoast.co.uk/) : June 9 - 10, 2017 : Portsmouth, UK
 A community conference by the sea, with two days of talks, organised by six PHP user groups in the South UK.
 
+* [PHPSerbia Conference 2017](http://conf2017.phpsrbija.rs/) : May 27 - 28, 2017 : Belgrade, Serbia
+Conference that delivers high-value technical content about PHP and related web technologies, architecture, best practices and testing. Two days of amazing talks by some of the most prominent experts and professionals in the PHP world in a comfortable and professional setting. At PHPSerbia Conference, you’ll have the unique opportunity to learn about the latest development trends and innovations, as well as to network with fellow attendees and the speakers.
+
 ## Africa
 
 ## Asia
