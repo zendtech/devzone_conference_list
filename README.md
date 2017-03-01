@@ -50,6 +50,9 @@ Conference that delivers high-value technical content about PHP and related web 
 
 ## Africa
 
+* [PHP South Africa 2017](http://phpsouthafrica.com/) : September 27 - 29, 2017 :  Cape Town, South Africa
+The goal of PHP South Africa has always been the same… The transfer of knowledge. We have always aimed to get the best of the best together in our beautiful country to share some of their knowledge and experience. In an ever growing industry it is events such as this that helps you stay sharp and craft better software.
+
 ## Asia
 
 ## Australia
