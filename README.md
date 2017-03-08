@@ -1,9 +1,6 @@
 This page list all known PHP and PHP related conferences. If we have missed one, fork the [DevZone Conference List](https://github.com/zendtech/devzone_conference_list) repo and read the Contributing guide.
 
 ## North America
-* [ConFoo Montreal](https://confoo.ca/en/yul2017) : March 8 - 10, 2017 : Montreal, QC, Canada
-ConFoo is a multi-technology conference aimed specifically at web developers. The Montreal edition has more than 150 presentations by local and international speakers. This conference offers a great diversity in content to expand your knowledge and increase your productivity. There is a great range of topics, including many programming languages, databases, security, performance, machine learning and project management.
-
 * [Midwest PHP](https://2017.midwestphp.org/) : March 17 - 18, 2017 : Bloomington, MN US
 We’re pleased to announce our conference, Midwest PHP should be one of the best PHP conferences where community members from around the world come together to learn and share information about the latest trends and technologies in professional PHP development.
 
