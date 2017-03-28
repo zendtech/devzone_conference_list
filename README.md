@@ -1,9 +1,6 @@
 This page list all known PHP and PHP related conferences. If we have missed one, fork the [DevZone Conference List](https://github.com/zendtech/devzone_conference_list) repo and read the Contributing guide.
 
 ## North America
-* [Midwest PHP](https://2017.midwestphp.org/) : March 17 - 18, 2017 : Bloomington, MN US
-We’re pleased to announce our conference, Midwest PHP should be one of the best PHP conferences where community members from around the world come together to learn and share information about the latest trends and technologies in professional PHP development.
-
 * [Lone Star PHP](http://lonestarphp.com) : April 20-22, 2017 : Dallas, TX US
 The Lone Star PHP conference is back again for another great year! We're in our seventh year and we're making things better all the time. This year's event will provide all of the great PHP speakers and content you've come to expect from Lone Star PHP. After great success, we are bringing back the Training Day. Training Day will provide a more hands-on experience for all that attend. There'll be plenty of time to spend with the local PHP community too through after-parties and other events.
 
@@ -26,18 +23,15 @@ The Pacific Northwest PHP (PNWPHP) Conference is a 3-day event in the Pacific No
 With over 250 million PHP applications driven by a global community of more than 5 million active developers and 100% of enterprises adopting open source software, ZendCon 2017 brings you a curated selection of the best experts, training, and networking opportunities to embrace this vast ecosystem. In its 13th year, ZendCon offers authoritative sessions, in-depth technical tutorials, exhibit hall activities, and informal opportunities to spotlight the best in enterprise PHP and open source development, focusing on the latest for PHP 7, the evolution of frameworks and tools, API excellence, and innovations on many open source technologies related to the web.
 
 ## South America
-
 * [PHP Conference Brazil](http://www.phpconference.com.br) : December 6 - 10, 2017 : Osasco, SP, Brazil
 Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event in Latin America, having reached more than 7,000 participants and more than 400h of PHP content throughout it's history.
 
 ## Europe
-
 * [PHP Yorkshire](https://cfp.phpyorkshire.co.uk/) : April 08, 2017 : York, UK
 We’re pleased to announce our conference, PHP Yorkshire should be one of the best PHP conferences where community members from around the world come together to learn and share information about the latest trends and technologies in professional PHP development.
 
 * [PHPDay 2017](https://2017.phpday.it/) : May 12 - 13, 2017 : Verona, Italy
 PHPDay is the Italian PHP Conference, regular event for all PHP developers in Italy and not only since 2003. Around 350 attendees in the previous edition, this year we'll expect even more! 2 days, 25 international speakers with talks and workshops dedicated to development and management. Talks, networking, fun and awesome food (we are in Italy!). PHPDay is organized by GrUSP, a non-profit organization which works to create an healthier tech ecosystem in Italy.
-
 
 * [PHP Tour 2017](http://event.afup.org) : May 18 - 19, 2017 : Nantes, France
 The next step of the French touring conference dedicated to PHP, organized by the French PHP-users group, AFUP, and gathering all PHP and Open Source communities, pros and PHP lovers.
@@ -55,7 +49,6 @@ A community conference by the sea, with two days of talks, organised by six PHP 
 Conference that delivers high-value technical content about PHP and related web technologies, architecture, best practices and testing. Two days of amazing talks by some of the most prominent experts and professionals in the PHP world in a comfortable and professional setting. At PHPSerbia Conference, you’ll have the unique opportunity to learn about the latest development trends and innovations, as well as to network with fellow attendees and the speakers.
 
 ## Africa
-
 * [PHP South Africa 2017](http://phpsouthafrica.com/) : September 27 - 29, 2017 :  Cape Town, South Africa
 The goal of PHP South Africa has always been the same… The transfer of knowledge. We have always aimed to get the best of the best together in our beautiful country to share some of their knowledge and experience. In an ever growing industry it is events such as this that helps you stay sharp and craft better software.
 
