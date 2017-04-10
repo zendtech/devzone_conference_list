@@ -27,9 +27,6 @@ With over 250 million PHP applications driven by a global community of more than
 Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event in Latin America, having reached more than 7,000 participants and more than 400h of PHP content throughout it's history.
 
 ## Europe
-* [PHP Yorkshire](https://cfp.phpyorkshire.co.uk/) : April 08, 2017 : York, UK
-We’re pleased to announce our conference, PHP Yorkshire should be one of the best PHP conferences where community members from around the world come together to learn and share information about the latest trends and technologies in professional PHP development.
-
 * [PHPDay 2017](https://2017.phpday.it/) : May 12 - 13, 2017 : Verona, Italy
 PHPDay is the Italian PHP Conference, regular event for all PHP developers in Italy and not only since 2003. Around 350 attendees in the previous edition, this year we'll expect even more! 2 days, 25 international speakers with talks and workshops dedicated to development and management. Talks, networking, fun and awesome food (we are in Italy!). PHPDay is organized by GrUSP, a non-profit organization which works to create an healthier tech ecosystem in Italy.
 
