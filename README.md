@@ -45,6 +45,9 @@ A community conference by the sea, with two days of talks, organised by six PHP 
 * [PHPSerbia Conference 2017](http://conf2017.phpsrbija.rs/) : May 27 - 28, 2017 : Belgrade, Serbia
 Conference that delivers high-value technical content about PHP and related web technologies, architecture, best practices and testing. Two days of amazing talks by some of the most prominent experts and professionals in the PHP world in a comfortable and professional setting. At PHPSerbia Conference, you’ll have the unique opportunity to learn about the latest development trends and innovations, as well as to network with fellow attendees and the speakers.
 
+* [ScotlandPHP 2017](https://conference.scotlandphp.co.uk) : November 4, 2017 : Edinburgh, UK
+Scotland PHP is a one day conference, being held in our nations capital, Edinburgh, and organised by four PHP user groups. Following the steps of the 2016 edition, two tracks of both local and international speakers will be offered.
+
 ## Africa
 * [PHP South Africa 2017](http://phpsouthafrica.com/) : September 27 - 29, 2017 :  Cape Town, South Africa
 The goal of PHP South Africa has always been the same… The transfer of knowledge. We have always aimed to get the best of the best together in our beautiful country to share some of their knowledge and experience. In an ever growing industry it is events such as this that helps you stay sharp and craft better software.
