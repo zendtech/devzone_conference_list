@@ -1,9 +1,6 @@
 This page list all known PHP and PHP related conferences. If we have missed one, fork the [DevZone Conference List](https://github.com/zendtech/devzone_conference_list) repo and read the Contributing guide.
 
 ## North America
-* [Lone Star PHP](http://lonestarphp.com) : April 20-22, 2017 : Dallas, TX US
-The Lone Star PHP conference is back again for another great year! We're in our seventh year and we're making things better all the time. This year's event will provide all of the great PHP speakers and content you've come to expect from Lone Star PHP. After great success, we are bringing back the Training Day. Training Day will provide a more hands-on experience for all that attend. There'll be plenty of time to spend with the local PHP community too through after-parties and other events.
-
 * [php&#91;tek&#93;](https://tek.phparch.com/) : May 24-26, 2017 : Atlanta, GA US
 The premier PHP conference and annual homecoming for the PHP Community. This conference will be the 12th annual edition, and php[architect] and One for All Events are excited to bring it to Atlanta, the empire city of the south!
 
