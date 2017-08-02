@@ -15,6 +15,9 @@ With over 250 million PHP applications driven by a global community of more than
 Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event in Latin America, having reached more than 7,000 participants and more than 400h of PHP content throughout it's history.
 
 ## Europe
+* [PHP Central Europe 2017](https://2017.phpce.eu) : November 3 - 5 : Hotel Ossa Congress & Spa, Rawa Mazowiecka, Poland
+phpCE is a first edition of a community conference for PHP programmers and enthusiasts. The meeting was stablished by merging two nation-wide events: PHPCon Poland and Brno PHP Conference.
+
 * [ScotlandPHP 2017](https://conference.scotlandphp.co.uk) : November 4, 2017 : Edinburgh, UK
 Scotland PHP is a one day conference, being held in our nations capital, Edinburgh, and organised by four PHP user groups. Following the steps of the 2016 edition, two tracks of both local and international speakers will be offered.
 
