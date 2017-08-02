@@ -1,12 +1,6 @@
 This page list all known PHP and PHP related conferences. If we have missed one, fork the [DevZone Conference List](https://github.com/zendtech/devzone_conference_list) repo and read the Contributing guide.
 
 ## North America
-* [CoderCruise](https://www.codercruise.com/) : July 16-23, 2017 : New Orleans, LA US
-The spiritual successor to php[cruise], CoderCruise is a family-friendly polyglot conference designed for web technologists. This is a conference on a cruise ship, that will leave the port of New Orleans on a 7 day cruise to Montego Bay, Grand Cayman, and Cozumel. The conference will take place during the 3 days spent at sea, while attendees will be free to explore the ports when docked.
-
-* [LaraCon](http://laracon.us/) : July 25-26, 2017 : New York, NY US
-Two amazing days of learning, growing, and mingling with the Laravel community - returning to the Big Apple.
-
 * [Northeast PHP](http://northeastphp.org/) : August 9-11, 2017 : Charlottetown, PEI, Canada
 The Northeast PHP Conference is a community conference intended for networking and collaboration in the developer community. PHP + UX + WEB = The best low-cost conference in North America!
 
