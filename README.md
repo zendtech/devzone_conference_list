@@ -18,6 +18,9 @@ Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event
 * [ScotlandPHP 2017](https://conference.scotlandphp.co.uk) : November 4, 2017 : Edinburgh, UK
 Scotland PHP is a one day conference, being held in our nations capital, Edinburgh, and organised by four PHP user groups. Following the steps of the 2016 edition, two tracks of both local and international speakers will be offered.
 
+* [MageTestFest](https://magetestfest.com/) : November 17, 2017 : Amersfoort, Netherlands
+An international developer conference focused on one thing: Testing within Magento. This event will bring in various experts in the field of testing (PHPUnit, TDD, BDD, code refactoring) to lift Magento developers to the next level.
+
 ## Africa
 * [PHP South Africa 2017](http://phpsouthafrica.com/) : September 27 - 29, 2017 :  Cape Town, South Africa
 The goal of PHP South Africa has always been the same… The transfer of knowledge. We have always aimed to get the best of the best together in our beautiful country to share some of their knowledge and experience. In an ever growing industry it is events such as this that helps you stay sharp and craft better software.
