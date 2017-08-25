@@ -1,9 +1,6 @@
 This page list all known PHP and PHP related conferences. If we have missed one, fork the [DevZone Conference List](https://github.com/zendtech/devzone_conference_list) repo and read the Contributing guide.
 
 ## North America
-* [Northeast PHP](http://northeastphp.org/) : August 9-11, 2017 : Charlottetown, PEI, Canada
-The Northeast PHP Conference is a community conference intended for networking and collaboration in the developer community. PHP + UX + WEB = The best low-cost conference in North America!
-
 * [ZendCon](http://zendcon.com) : October 23-26, 2017 : Las Vegas, NV US
 With over 250 million PHP applications driven by a global community of more than 5 million active developers and 100% of enterprises adopting open source software, ZendCon 2017 brings you a curated selection of the best experts, training, and networking opportunities to embrace this vast ecosystem. In its 13th year, ZendCon offers authoritative sessions, in-depth technical tutorials, exhibit hall activities, and informal opportunities to spotlight the best in enterprise PHP and open source development, focusing on the latest for PHP 7, the evolution of frameworks and tools, API excellence, and innovations on many open source technologies related to the web.
 
