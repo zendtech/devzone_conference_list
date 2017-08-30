@@ -11,9 +11,9 @@ Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event
 ## Europe
 * [PHPNW17](http://conference.phpnw.org.uk/phpnw17/) : September 29th - October 1st 2017 : Manchester, Greater Manchester, UK
 
-    One of the largest and most popular PHP Conferences in Europe, PHPNW17 is a long-running community based conference run on a not-for-profit basis. It is overwhelmingly supported by industry leaders, code experts, web developers and businesses across the world. This year, we are celebrating our 10th conference year and we aim to be bigger and better than ever before.
+    One of the largest and most popular PHP Conferences in Europe, PHPNW17 is a long-running community-based conference run on a not-for-profit basis. It is overwhelmingly supported by industry leaders, code experts, web developers and businesses across the world. This year, we are celebrating our 10th conference year, and we aim to be bigger and better than ever before.
 
-    The PHPNW Conference has a reputation within the PHP community as a "go to" conference due its inspiring content, friendly atmosphere and networking opportunities. Our delegates come to our Conference because they are specifically interested in new technologies and ways to improve their skills through our tutorials and talks, as well as the awesome (unofficial) corridor track!
+    The PHPNW Conference has a reputation within the PHP community as a "go to" conference due to its inspiring content, friendly atmosphere and networking opportunities. Our delegates come to our Conference because they are specifically interested in new technologies and ways to improve their skills through our tutorials and talks, as well as the awesome (unofficial) corridor track!
 
 * [PHP Central Europe 2017](https://2017.phpce.eu) : November 3 - 5 : Hotel Ossa Congress & Spa, Rawa Mazowiecka, Poland
 phpCE is a first edition of a community conference for PHP programmers and enthusiasts. The meeting was stablished by merging two nation-wide events: PHPCon Poland and Brno PHP Conference.
