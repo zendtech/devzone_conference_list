@@ -4,6 +4,11 @@ This page list all known PHP and PHP related conferences. If we have missed one,
 * [ZendCon](http://zendcon.com) : October 23-26, 2017 : Las Vegas, NV US
 With over 250 million PHP applications driven by a global community of more than 5 million active developers and 100% of enterprises adopting open source software, ZendCon 2017 brings you a curated selection of the best experts, training, and networking opportunities to embrace this vast ecosystem. In its 13th year, ZendCon offers authoritative sessions, in-depth technical tutorials, exhibit hall activities, and informal opportunities to spotlight the best in enterprise PHP and open source development, focusing on the latest for PHP 7, the evolution of frameworks and tools, API excellence, and innovations on many open source technologies related to the web.
 
+* [SunshinePHP 2018](http://2018.sunshinephp.com/) : February 8-10, 2018 : Miami, Florida  
+    The SunshinePHP Developer Conference is hosted by the South Florida PHP community (SoFloPHP). We'll host some of the best speakers, awesome talk topics, latest technologies, and up to date news in PHP. And don't forget our Hack-a-thon and Uncon'ference, as well as a great hallway track!
+
+    The conference has something for every level of PHP developer. We start on February 8th with a full day of 8 PHP related tutorials and workshops that are each 3 hours of in-depth information. Next we follow that with 2 days on February 9th and 10th containing 5 keynotes and 40 PHP talks over 4 tracks.
+
 ## South America
 * [PHP Conference Brazil](http://www.phpconference.com.br) : December 6 - 10, 2017 : Osasco, SP, Brazil
 Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event in Latin America, having reached more than 7,000 participants and more than 400h of PHP content throughout it's history.
