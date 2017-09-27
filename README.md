@@ -4,6 +4,9 @@ This page list all known PHP and PHP related conferences. If we have missed one,
 * [ZendCon](http://zendcon.com) : October 23-26, 2017 : Las Vegas, NV US
 With over 250 million PHP applications driven by a global community of more than 5 million active developers and 100% of enterprises adopting open source software, ZendCon 2017 brings you a curated selection of the best experts, training, and networking opportunities to embrace this vast ecosystem. In its 13th year, ZendCon offers authoritative sessions, in-depth technical tutorials, exhibit hall activities, and informal opportunities to spotlight the best in enterprise PHP and open source development, focusing on the latest for PHP 7, the evolution of frameworks and tools, API excellence, and innovations on many open source technologies related to the web.
 
+* [php&#91;world&#93; 2017](https://world.phparch.com/) : November 15-16, 2017 : Washington, D.C. US
+PHP as a language and a community has been rapidly changing in the last few years. A staggering 82% of the Web runs on PHP, and those websites are built on frameworks such as Drupal, WordPress, Magento, Symfony, ZF and Laravel, each of which has their own strong community. We created a conference designed to appeal to all these communities and bring them together. Hence, php[world] was born. An event intended to bring the entire world of PHP together in one place, to encourage cross-pollination of ideas and sharing of ideals.
+
 ## South America
 * [PHP Conference Brazil](http://www.phpconference.com.br) : December 6 - 10, 2017 : Osasco, SP, Brazil
 Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event in Latin America, having reached more than 7,000 participants and more than 400h of PHP content throughout it's history.
