@@ -17,8 +17,7 @@ Midwest PHP is the FUN conference. This is our fifth annual conference, and each
 Our main goal as a conference is to equip attendees to be better developers. If you work with developers or alongside developers, we’ll showcase tools and techniques to level up your ability to solve the problems you face every day. You’ll get to learn from and alongside a diverse group of developers from all over the region, country, and even the globe. Whether you’re a junior developer or an experienced programmer, you’ll be learning alongside your peers. You’ll get direct access to experts in all aspects of modern web development: security, programming techniques, devops, architecture, database administration, and more.
 
 ## South America
-* [PHP Conference Brazil](http://www.phpconference.com.br) : December 6 - 10, 2017 : Osasco, SP, Brazil
-Reaching it's 12th edition, PHP Conference Brazil is known as the Main PHP Event in Latin America, having reached more than 7,000 participants and more than 400h of PHP content throughout it's history.
+
 
 ## Europe
 * [PHP Central Europe 2017](https://2017.phpce.eu) : November 3 - 5 : Hotel Ossa Congress & Spa, Rawa Mazowiecka, Poland
