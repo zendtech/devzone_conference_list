@@ -5,11 +5,12 @@ This page list all known PHP and PHP related conferences. If we have missed one,
 With over 250 million PHP applications driven by a global community of more than 5 million active developers and 100% of enterprises adopting open source software, ZendCon 2017 brings you a curated selection of the best experts, training, and networking opportunities to embrace this vast ecosystem. In its 13th year, ZendCon offers authoritative sessions, in-depth technical tutorials, exhibit hall activities, and informal opportunities to spotlight the best in enterprise PHP and open source development, focusing on the latest for PHP 7, the evolution of frameworks and tools, API excellence, and innovations on many open source technologies related to the web.
 
 * [Longhorn PHP Conference](https://www.longhornphp.com/) : April 19-21, 2018 : Austin, TX US
-Our main goal as a conference is to equip attendees to be better developers. If you work with developers or alongside developers, we’ll showcase tools and techniques to level up your ability to solve the problems you face every day.
 
-You’ll get to learn from and alongside a diverse group of developers from all over the region, country, and even the globe. Whether you’re a junior developer or an experienced programmer, you’ll be learning alongside your peers.
+  Our main goal as a conference is to equip attendees to be better developers. If you work with developers or alongside developers, we’ll showcase tools and techniques to level up your ability to solve the problems you face every day.
 
-You’ll get direct access to experts in all aspects of modern web development: security, programming techniques, devops, architecture, database administration, and more.
+  You’ll get to learn from and alongside a diverse group of developers from all over the region, country, and even the globe. Whether you’re a junior developer or an experienced programmer, you’ll be learning alongside your peers.
+
+  You’ll get direct access to experts in all aspects of modern web development: security, programming techniques, devops, architecture, database administration, and more.
 
 ## South America
 * [PHP Conference Brazil](http://www.phpconference.com.br) : December 6 - 10, 2017 : Osasco, SP, Brazil
