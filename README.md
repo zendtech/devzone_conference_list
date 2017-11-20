@@ -16,6 +16,10 @@ Midwest PHP is the FUN conference. This is our fifth annual conference, and each
 * [Longhorn PHP Conference](https://www.longhornphp.com/) : April 19-21, 2018 : Austin, TX US
 Our main goal as a conference is to equip attendees to be better developers. If you work with developers or alongside developers, we’ll showcase tools and techniques to level up your ability to solve the problems you face every day. You’ll get to learn from and alongside a diverse group of developers from all over the region, country, and even the globe. Whether you’re a junior developer or an experienced programmer, you’ll be learning alongside your peers. You’ll get direct access to experts in all aspects of modern web development: security, programming techniques, devops, architecture, database administration, and more.
 
+* [php&#91;tek&#93; 2018](https://tek.phparch.com/) : May 30 - June 1, 2018 : Atlanta, GA US
+The 13th annual edition of the longest running conference dedicated to the PHP community! This year php[tek] returns to Atlanta and promises to provide all the hard hitting advanced PHP knowledge that you can handle, while also having great sessions for beginners, as well as soft topics about and for the community.  Don't miss out on this epic event at a brand new venue in downtown Atlanta!
+
+
 ## South America
 
 
