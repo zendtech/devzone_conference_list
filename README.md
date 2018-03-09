@@ -16,6 +16,9 @@ Midwest PHP is the FUN conference. This is our fifth annual conference, and each
 * [Longhorn PHP Conference](https://www.longhornphp.com/) : April 19-21, 2018 : Austin, TX US
 Our main goal as a conference is to equip attendees to be better developers. If you work with developers or alongside developers, we’ll showcase tools and techniques to level up your ability to solve the problems you face every day. You’ll get to learn from and alongside a diverse group of developers from all over the region, country, and even the globe. Whether you’re a junior developer or an experienced programmer, you’ll be learning alongside your peers. You’ll get direct access to experts in all aspects of modern web development: security, programming techniques, devops, architecture, database administration, and more.
 
+* [Web Development and UX Conference by Northeast PHP](http://2018.northeastphp.org/) : September 19-21, 2018 : Boston, MA US
+The 2018 Web Development and UX Conference brings community members together to learn and share information about the latest trends and technologies in professional PHP development, User Experience design, and Web Technologies. The team at Northeast PHP is excited to announce our community organized conference is returning Boston this year. We're focsued on both PHP and its place among broader technical and non-tech aspects of the web community.
+
 ## South America
 
 
