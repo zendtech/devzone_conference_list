@@ -23,8 +23,8 @@ Our main goal as a conference is to equip attendees to be better developers. If 
 * [PHP Central Europe 2017](https://2017.phpce.eu) : November 3 - 5 : Hotel Ossa Congress & Spa, Rawa Mazowiecka, Poland
 phpCE is a first edition of a community conference for PHP programmers and enthusiasts. The meeting was stablished by merging two nation-wide events: PHPCon Poland and Brno PHP Conference.
 
-* [ScotlandPHP 2017](https://conference.scotlandphp.co.uk) : November 4, 2017 : Edinburgh, UK
-Scotland PHP is a one day conference, being held in our nations capital, Edinburgh, and organised by four PHP user groups. Following the steps of the 2016 edition, two tracks of both local and international speakers will be offered.
+* [ScotlandPHP 2018](https://conference.scotlandphp.co.uk) : October 5 - 6, 2018 : Edinburgh, UK
+Scotland PHP is a two days conference (including workshops), being held in our nations capital, Edinburgh, and organised by four PHP user groups. Following the steps of the 2016 and 2017 editions, two tracks of both local and international speakers will be offered, along with a tutorial day.
 
 * [MageTestFest](https://magetestfest.com/) : November 17, 2017 : Amersfoort, Netherlands
 An international developer conference focused on one thing: Testing within Magento. This event will bring in various experts in the field of testing (PHPUnit, TDD, BDD, code refactoring) to lift Magento developers to the next level.
